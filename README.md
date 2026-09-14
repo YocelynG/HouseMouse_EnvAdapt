@@ -1,9 +1,5 @@
 # Across two continents: the genomic basis of environmental adaptation in house mice (*Mus musculus domesticus*) from the Americas
 
-Yocelyn T. Gutierrez-Guerrero, Megan Phifer-Rixey, and Michael W. Nachman
-
-# Across two continents: the genomic basis of environmental adaptation in house mice (*Mus musculus domesticus*) from the Americas
-
 **Yocelyn T. Gutierrez-Guerrero, Megan Phifer-Rixey, and Michael W. Nachman**
 
 This repository contains the genomic and environmental analyses used to investigate local adaptation in house mice (*Mus musculus domesticus*) across North and South America. The workflow includes read processing, variant identification, population genomic analyses, environmental association analyses, candidate gene annotation, genome-wide association analyses, and tests of parallel evolution.
